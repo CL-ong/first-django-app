@@ -1,3 +1,6 @@
 print("Hello %s, my name is %s" % ('john', 'mike'))
 
 # %s for string, % (arg1, arg2, ...) - use tuples for multiple arguments
+
+# tuples, sets, dictionaries, lists
+# dictionaries stores key-value pairs, no duplicates for key but duplicates allowed for values

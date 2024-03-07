@@ -6,6 +6,7 @@ print("Hello %s, my name is %s" % ('john', 'mike'))
 
 # dictionaries stores key-value pairs, no duplicates for key but duplicates allowed for values
 
-#django templating language
+#django template:
+# {{tag 'argument1' 'arg2' }} {{end tag}}
+# {% tags|filter:argument %}
 
-#variables are surrounded by {{}},  values are passed from context in a dict-like object e.g. {{ first_name : 'Jean', last_name : 'Paul'}}

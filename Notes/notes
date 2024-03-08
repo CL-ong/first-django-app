@@ -8,5 +8,13 @@ print("Hello %s, my name is %s" % ('john', 'mike'))
 
 #django template:
 # {{tag 'argument1' 'arg2' }} {{end tag}}
-# {% tags|filter:argument %}
+# {% tags|filter:argument %} 
+
+# Model layer
+# Many-to-one relationship - models.ForeignKey (class-that-model-is-related-to)
+
+#
+
+#
+
 
